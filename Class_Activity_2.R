@@ -3,7 +3,6 @@ install.packages('arulesViz')
 library(arules)
 library(arulesViz)
 library(data.table)
-setwd('C:/Users/Jiu Xiao/Downloads/S3 Association Rules')
 
 milk <- fread("milk.csv") #wide data format
 milk
