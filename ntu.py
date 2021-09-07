@@ -5,8 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-USERNAME = 'HENG0225'
-PASSWORD = 'Qwertyuiop1'
+USERNAME = ''
+PASSWORD = ''
 
 PATH = 'C:/Users/Serenity4/Downloads/chromedriver_win32/chromedriver.exe'
 driver = webdriver.Chrome(PATH)
